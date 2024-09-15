@@ -10,7 +10,7 @@ This my website to show my skills
       <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro</a> 
   <div/>
   <div class="nav-item">
-      <a href="#Japanes">🇯🇵 japanese</a>
+      <a href="#Japanese">🇯🇵 japanese/日本語</a>
   <div/>
 <div/>
 
