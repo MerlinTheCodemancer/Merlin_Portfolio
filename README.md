@@ -4,13 +4,13 @@ This my website to show my skills
 ## Languages
 <div id="languages" class="container">
   <div class="nav-item">
-     <a href="#English">🇬🇧/🇺🇸 English<a/>
+     <a href="#English">🇬🇧/🇺🇸 English</a>
  <div/> 
 <div class="nav-item">
-      <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/> <li/>
+      <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro</a> 
   <div/>
   <div class="nav-item">
-      <a href="#Japanes">🇯🇵 japanese<a/>
+      <a href="#Japanes">🇯🇵 japanese</a>
   <div/>
 <div/>
 
