@@ -2,17 +2,21 @@
 This my website to show my skills
 
 ## Languages
-<div>
-<ul style"list-style-type:none">
-  <li> <a href="#English">🇬🇧/🇺🇸 English<a/> <li/>
-  <li> <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/> <li/>
-  <li> <a href="#Japanes">🇯🇵 japanese<a/> <li/>
-<ul/>
+<div id="languages" class="container">
+  <div class="nav-item">
+     <a href="#English">🇬🇧/🇺🇸 English<a/>
+ <div/> 
+<div class="nav-item">
+      <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/> <li/>
+  <div/>
+  <div class="nav-item">
+      <a href="#Japanes">🇯🇵 japanese<a/>
+  <div/>
 <div/>
----------------------------------------------------------------------
 
 
 <div id="English">
+
 # English
   
  ## 🎨 Merlin The Code mancer's Portfolio & Resume
