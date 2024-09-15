@@ -4,9 +4,9 @@ This my website to show my skills
 ## Languages
 <div>
 <ul style"list-style-type:none">
-  <a href="#English">🇬🇧/🇺🇸 English<a/>
-  <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/>
-  <a href="#Japanes">🇯🇵 <a/>
+  <li> <a href="#English">🇬🇧/🇺🇸 English<a/> <li/>
+  <li> <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/> <li/>
+  <li> <a href="#Japanes">🇯🇵 japanese<a/> <li/>
 <ul/>
 <div/>
 ---------------------------------------------------------------------
