@@ -2,11 +2,11 @@
 This my website to show my skills
 
 Languages
-<ul>
+<ol>
   <li><a href="#English">🇬🇧/🇺🇸 English<a/><li/>
   <li><a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/><li/>
   <li><a href="#Japanes">🇯🇵 <a/><li/>
-<ul/>
+<ol/>
 
 
 <div id="English">
