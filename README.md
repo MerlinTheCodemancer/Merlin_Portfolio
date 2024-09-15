@@ -1,13 +1,14 @@
 # Merlin_Portfolio
 This my website to show my skills
 
-Languages
+## Languages
+<div>
 <ul style"list-style-type:none">
-  <li><a href="#English">🇬🇧/🇺🇸 English<a/><li/>
-  <li><a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/><li/>
-  <li><a href="#Japanes">🇯🇵 <a/><li/>
+  <a href="#English">🇬🇧/🇺🇸 English<a/>
+  <a href="#Portuguese_Brazilian">🇧🇷 Portugues Brasileiro<a/>
+  <a href="#Japanes">🇯🇵 <a/>
 <ul/>
-
+<div/>
 ---------------------------------------------------------------------
 
 
